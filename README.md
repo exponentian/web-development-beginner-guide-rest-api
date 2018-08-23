@@ -42,6 +42,12 @@ Target audiences:
 - Edit user's profile and password
 
 
+#### Must be installed
+- [Node.js](https://nodejs.org/en/download/)
+- [NPM](https://docs.npmjs.com/cli/install)
+- [MongoDB](https://docs.mongodb.com/manual/installation/)
+
+
 ---
 
 
