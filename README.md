@@ -72,6 +72,7 @@ Target audiences:
 #### Testing
 - File: [populatedb.js](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#Testing_%E2%80%94_create_some_items)
 - Tool: [Postman](https://www.getpostman.com/docs/v6/postman/sending_api_requests/requests)
+- Database: localhost MongoDB or cloud hosting MongoDB
 
 
 #### Important keywords
